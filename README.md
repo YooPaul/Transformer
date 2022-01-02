@@ -1,5 +1,5 @@
-# Implementation of the Transformer<sup>[1]</sup> Architecture
-[![Open Transfomer in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YooPaul/transformer/blob/master/Transformer.ipynb)<br>
+# Implementation of the Transformer Architecture
+[![Open Transfomer in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YooPaul/Transformer/blob/master/Transformer.ipynb)<br>
 
 Easily customizable implementation of the Transformer architecture.<br>
 Components include multi-headed self-attention and cross-attention, layer normalization, positional encoding, stacked encoder and decoder architectures.
